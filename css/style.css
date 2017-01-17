@@ -508,7 +508,8 @@ padding:100px 0;
 background:#ECF0F3;
 }
 .team-item img{
-width:100%;
+width:80%;
+padding-left: 80px;
 }
 .team-item:hover img{
 opacity:.6;
