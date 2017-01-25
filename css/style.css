@@ -141,9 +141,9 @@ content:"";
 .parallax-overlay{background-color:#57BDDB}
 
 .welcome-text h2{
-font-size:60px;
 letter-spacing:10px;
 text-transform:uppercase;
+font-size:4.5vw;
 }
 .social-bookmark{
 margin-top:30px;
