@@ -1127,7 +1127,14 @@ background:#8E44AD;
     margin-right:2%;
 }
 .rowl {
-    margin-right: -15px;
-    margin-left: -15px;
     padding-top: 8%;
+}
+
+.centercard {
+float:none;
+margin:auto;
+}
+
+.containern {
+  margin-left:inherit;
 }
