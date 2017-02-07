@@ -1138,3 +1138,35 @@ margin:auto;
 .containern {
   margin-left:inherit;
 }
+
+.post p{
+font-weight:30;
+letter-spacing:2px;
+font-size: 14px;
+}
+
+.post h2{
+margin-top: 24px;
+padding-bottom: 10px;
+}
+
+.post li{
+
+letter-spacing:2px;
+font-size: 14px;
+margin-bottom: 25px;
+margin-right: 5px;
+border: 1px solid #57BDDB;
+display: inline-block;
+padding: 40px;
+}
+
+.post ul {
+  display: block;
+  list-style: none;
+  margin: 0 0 3em;
+}
+
+.containerp {
+  display: table;
+};
