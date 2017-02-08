@@ -21,7 +21,7 @@
 
         // Set the recipient email address.
         // FIXME: Update this to your desired email address.
-        $recipient = "no-reply@wpexpand.com";
+        $recipient = "caio@castcupom.com";
 
         // Set the email subject.
         $subject = "New contact from $name";
