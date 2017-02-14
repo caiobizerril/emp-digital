@@ -7,7 +7,7 @@ Author: Perfect Point Marketing
 /* ==========================================================================
 	Stylesheet guideline
 
-	1. Programa na pagina do workshop e card central da home. 
+	1. Programa na pagina do workshop e card central da home.
 
    ========================================================================== */
 
@@ -20,15 +20,6 @@ Author: Perfect Point Marketing
   color:#ffffff;
 }
 
-
-.centercard {
-float:none;
-margin:auto;
-}
-
-.containern {
-  margin-left:inherit;
-}
 
 .post p{
 font-weight:30;
