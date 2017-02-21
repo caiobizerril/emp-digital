@@ -236,6 +236,8 @@ text-transform:uppercase;
 }
 #about .page-title{
 margin-top:60px;
+font-size: 20px;
+
 }
 .btn-filled, .btn-bordered{
 /*border-radius*/

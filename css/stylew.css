@@ -12,15 +12,6 @@ Author: Perfect Point Marketing
    ========================================================================== */
 
 
-.btn-5:hover {
-  border: 1px solid;
-  box-shadow: inset 0 0 20px rgba(255, 255, 255, .5), 0 0 20px rgba(255, 255, 255, .2);
-  outline-color: rgba(255, 255, 255, 0);
-  outline-offset: 15px;
-  color:#ffffff;
-}
-
-
 .post p{
 font-weight:30;
 letter-spacing:2px;
@@ -33,18 +24,10 @@ padding-bottom: 10px;
 }
 
 .post li{
-
 letter-spacing:2px;
 font-size: 14px;
-margin-bottom: 25px;
-margin-right: 5px;
-border: 1px solid #57BDDB;
-display: inline-block;
-padding: 40px;
-}
-
-.post li:hover{
-  background-color:#57BDDB;
+margin-right: 20px;
+padding: 10px;
 }
 
 .post ul {
@@ -53,6 +36,6 @@ padding: 40px;
   margin: 0 0 3em;
 }
 
-.containerp {
-  display: table;
-};
+.containerp{
+text-align: justify; 
+}
